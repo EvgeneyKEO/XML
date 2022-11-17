@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+            <ID>1</ID>
+            <Summary></Summary>
+            <Project></Project>
+            <Environment>Your environment</Environment>
+            <Severity>Trivial, Minor, Major, Critical, Blocker</Severity>
+            <Priorety>Low, Normal, High, Top</Priorety
+            <Status>Open</Status>
+            <Precondition>...</Precondition>
+            <STR>
+                 <Step1>Step description</Step1>
+                 <Step2>Step description</Step2> 
+            </STR>
+            <Result>...</Result>
+            <ER>...</ER>
+            <Attachment>link</Attachment>
